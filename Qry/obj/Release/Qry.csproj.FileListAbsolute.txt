@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Qry\bin\Release\Qry.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Qry\bin\Release\Qry.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Qry\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Qry\obj\Release\Qry.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Qry\obj\Release\Qry.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Qry\bin\Release\Qry.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Qry\bin\Release\Qry.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Qry\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Qry\obj\Release\Qry.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Qry\obj\Release\Qry.pdb

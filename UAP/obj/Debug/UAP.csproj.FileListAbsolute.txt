@@ -1,0 +1,340 @@
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.FM.AddUser.resources
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\BIS.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\Layout.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\Utils.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\DAL.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\NPOI.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\Layout.pdb
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\BIS.pdb
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS\UAP\obj\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS\UAP\bin\Debug\Utils.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\UAP.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\UAP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\BIS.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\Layout.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\Utils.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\NPOI.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\Utils.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\Layout.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\bin\Debug\BIS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.FM.AddUser.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\BIS.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\Layout.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\Utils.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\DAL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\NPOI.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\Utils.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\Layout.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\bin\Debug\BIS.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.FM.AddUser.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\UAP\obj\Debug\UAP.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\UAP.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\UAP.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\BIS.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\Layout.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\Utils.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\DAL.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\NPOI.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\Utils.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\Layout.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\bin\Debug\BIS.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.FM.AddUser.resources
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\UAP\obj\Debug\UAP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\UAP.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\UAP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\BIS.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\Layout.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\Utils.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\NPOI.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\Utils.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\Layout.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\bin\Debug\BIS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.FM.AddUser.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\BIS.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\Layout.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\Utils.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\DAL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\NPOI.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\Utils.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\Layout.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\bin\Debug\BIS.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.FM.AddUser.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\UAP\obj\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\BIS.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\Layout.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\Utils.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\DAL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\NPOI.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\Utils.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\Layout.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\BIS.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\obj\Debug\UAP.FM.Users.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\CTL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\Interop.SQLDMO.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\UAP\bin\Debug\CTL.pdb
+G:\DTMS_170208\UAP\bin\Debug\UAP.dll
+G:\DTMS_170208\UAP\bin\Debug\UAP.pdb
+G:\DTMS_170208\UAP\bin\Debug\BIS.dll
+G:\DTMS_170208\UAP\bin\Debug\CTL.dll
+G:\DTMS_170208\UAP\bin\Debug\Layout.dll
+G:\DTMS_170208\UAP\bin\Debug\Utils.dll
+G:\DTMS_170208\UAP\bin\Debug\ADODB.dll
+G:\DTMS_170208\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+G:\DTMS_170208\UAP\bin\Debug\NPOI.dll
+G:\DTMS_170208\UAP\bin\Debug\Interop.CRAXDDRT.dll
+G:\DTMS_170208\UAP\bin\Debug\DAL.dll
+G:\DTMS_170208\UAP\bin\Debug\CrystalDecisions.Shared.dll
+G:\DTMS_170208\UAP\bin\Debug\NPOI.OOXML.dll
+G:\DTMS_170208\UAP\bin\Debug\Interop.SQLDMO.dll
+G:\DTMS_170208\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+G:\DTMS_170208\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\DTMS_170208\UAP\bin\Debug\stdole.dll
+G:\DTMS_170208\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+G:\DTMS_170208\UAP\bin\Debug\BIS.pdb
+G:\DTMS_170208\UAP\bin\Debug\CTL.pdb
+G:\DTMS_170208\UAP\bin\Debug\Layout.pdb
+G:\DTMS_170208\UAP\bin\Debug\Utils.pdb
+G:\DTMS_170208\UAP\obj\Debug\UAP.csprojResolveAssemblyReference.cache
+G:\DTMS_170208\UAP\obj\Debug\UAP.FM.AddControl.resources
+G:\DTMS_170208\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+G:\DTMS_170208\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+G:\DTMS_170208\UAP\obj\Debug\UAP.FM.FMLogin.resources
+G:\DTMS_170208\UAP\obj\Debug\UAP.FM.Permission.resources
+G:\DTMS_170208\UAP\obj\Debug\UAP.FM.Users.resources
+G:\DTMS_170208\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+G:\DTMS_170208\UAP\obj\Debug\UAP.dll
+G:\DTMS_170208\UAP\obj\Debug\UAP.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\UAP.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\UAP.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\BIS.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\CTL.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\Layout.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\Utils.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\ADODB.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\NPOI.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\DAL.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\Interop.SQLDMO.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\stdole.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\BIS.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\CTL.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\Layout.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\bin\Debug\Utils.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.csprojResolveAssemblyReference.cache
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.Users.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\UAP\obj\Debug\UAP.pdb
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\UAP.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\UAP.pdb
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\BIS.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\CTL.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\Layout.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\Utils.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\ADODB.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\NPOI.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\Interop.CRAXDDRT.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\DAL.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\CrystalDecisions.Shared.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\NPOI.OOXML.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\Interop.SQLDMO.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\stdole.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\BIS.pdb
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\CTL.pdb
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\Layout.pdb
+G:\DTMS_Today\DTMS_170208\UAP\bin\Debug\Utils.pdb
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.csprojResolveAssemblyReference.cache
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.FM.AddControl.resources
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.FM.FMLogin.resources
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.FM.Permission.resources
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.FM.Users.resources
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.dll
+G:\DTMS_Today\DTMS_170208\UAP\obj\Debug\UAP.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\UAP.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\UAP.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\BIS.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\CTL.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\Layout.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\Utils.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\ADODB.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\BIS.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\CTL.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\Layout.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\bin\Debug\Utils.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.FM.Users.resources
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.dll
+C:\Users\Administrator\Desktop\DTMS_170208\UAP\obj\Debug\UAP.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\UAP.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\UAP.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\BIS.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\CTL.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\Layout.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\Utils.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\ADODB.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\BIS.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\CTL.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\Layout.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\bin\Debug\Utils.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.FM.AddControl.resources
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.FM.ChangePassword.resources
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.FM.ConfigControl.resources
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.FM.FMLogin.resources
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.FM.Permission.resources
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.FM.Users.resources
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.dll
+C:\Users\Administrator\Desktop\DTMS_170313\UAP\obj\Debug\UAP.pdb

@@ -1,0 +1,373 @@
+C:\Users\SAINGYL\Desktop\DTMS\PT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS\PT\bin\Debug\PT.dll
+C:\Users\SAINGYL\Desktop\DTMS\PT\bin\Debug\PT.pdb
+C:\Users\SAINGYL\Desktop\DTMS\PT\bin\Debug\DTMS.exe
+C:\Users\SAINGYL\Desktop\DTMS\PT\bin\Debug\DTMS.pdb
+C:\Users\SAINGYL\Desktop\DTMS\PT\obj\Debug\PT.dll
+C:\Users\SAINGYL\Desktop\DTMS\PT\obj\Debug\PT.pdb
+C:\Users\SAINGYL\Desktop\DTMS\PT\obj\Debug\PT.Form.fPatient.resources
+C:\Users\SAINGYL\Desktop\DTMS\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\PT.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\PT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\BIS.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\Layout.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\Qry.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\UAP.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\Utils.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\NPOI.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\Utils.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\Layout.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\BIS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\Qry.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\bin\Debug\UAP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\obj\Debug\PT.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\obj\Debug\PT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\obj\Debug\PT.fAppointment.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\PT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\PT.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\BIS.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\Layout.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\Utils.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\DAL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\NPOI.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\Utils.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\Layout.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\BIS.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\bin\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\obj\Debug\PT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\obj\Debug\PT.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\PT\obj\Debug\PT.Form.fAppointment_1.resources
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\PT.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\PT.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\BIS.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\Layout.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\Qry.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\UAP.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\Utils.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\DAL.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\NPOI.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\Utils.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\Layout.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\BIS.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\Qry.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\bin\Debug\UAP.pdb
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\obj\Debug\PT.Form.fAppointment_1.resources
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\obj\Debug\PT.dll
+C:\Users\Administrator\AppData\Roaming\Skype\My Skype Received Files\DTMS_260117\PT\obj\Debug\PT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\PT.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\PT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\BIS.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\Layout.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\Qry.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\UAP.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\Utils.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\NPOI.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\Utils.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\Layout.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\BIS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\Qry.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\bin\Debug\UAP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.Form.fAppointment_1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.Form.fTransaction.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.Form.fTransaction_Mod.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.Form.fAppointment_Mod.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.fPatient.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Debug\PT.fUser.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\PT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\PT.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\BIS.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\Layout.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\Utils.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\DAL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\NPOI.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\Utils.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\Layout.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\BIS.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\bin\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.Form.fAppointment_1.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.Form.fAppointment_Mod.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.Form.fTransaction.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.Form.fTransaction_Mod.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.fUser.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.Form.fDoctor.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.Form.fPatient_Mod.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.Form.fPatient.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\PT\obj\Debug\PT.Form.fDoctor_Mod.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\PT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\PT.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\BIS.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Layout.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\UAP.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Utils.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\DAL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\NPOI.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Utils.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Layout.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\BIS.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\UAP.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.Form.fPatient_Mod.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor_Mod.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_1.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_Mod.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.Form.fPatient.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction_Mod.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.fUser.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\obj\Debug\PT.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\Interop.SQLDMO.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\CTL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\PT\bin\Debug\CTL.pdb
+G:\DTMS_170208\PT\bin\Debug\PT.dll
+G:\DTMS_170208\PT\bin\Debug\PT.pdb
+G:\DTMS_170208\PT\bin\Debug\BIS.dll
+G:\DTMS_170208\PT\bin\Debug\Layout.dll
+G:\DTMS_170208\PT\bin\Debug\Qry.dll
+G:\DTMS_170208\PT\bin\Debug\UAP.dll
+G:\DTMS_170208\PT\bin\Debug\Utils.dll
+G:\DTMS_170208\PT\bin\Debug\CTL.dll
+G:\DTMS_170208\PT\bin\Debug\ADODB.dll
+G:\DTMS_170208\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+G:\DTMS_170208\PT\bin\Debug\NPOI.dll
+G:\DTMS_170208\PT\bin\Debug\Interop.CRAXDDRT.dll
+G:\DTMS_170208\PT\bin\Debug\DAL.dll
+G:\DTMS_170208\PT\bin\Debug\CrystalDecisions.Shared.dll
+G:\DTMS_170208\PT\bin\Debug\NPOI.OOXML.dll
+G:\DTMS_170208\PT\bin\Debug\Interop.SQLDMO.dll
+G:\DTMS_170208\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+G:\DTMS_170208\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\DTMS_170208\PT\bin\Debug\stdole.dll
+G:\DTMS_170208\PT\bin\Debug\NPOI.OpenXml4Net.dll
+G:\DTMS_170208\PT\bin\Debug\BIS.pdb
+G:\DTMS_170208\PT\bin\Debug\Layout.pdb
+G:\DTMS_170208\PT\bin\Debug\Qry.pdb
+G:\DTMS_170208\PT\bin\Debug\UAP.pdb
+G:\DTMS_170208\PT\bin\Debug\Utils.pdb
+G:\DTMS_170208\PT\bin\Debug\CTL.pdb
+G:\DTMS_170208\PT\obj\Debug\PT.csprojResolveAssemblyReference.cache
+G:\DTMS_170208\PT\obj\Debug\PT.Form.fPatient_Mod.resources
+G:\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor_Mod.resources
+G:\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor.resources
+G:\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_1.resources
+G:\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_Mod.resources
+G:\DTMS_170208\PT\obj\Debug\PT.Form.fPatient.resources
+G:\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction.resources
+G:\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction_Mod.resources
+G:\DTMS_170208\PT\obj\Debug\PT.fUser.resources
+G:\DTMS_170208\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+G:\DTMS_170208\PT\obj\Debug\PT.dll
+G:\DTMS_170208\PT\obj\Debug\PT.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\PT.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\PT.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\BIS.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Layout.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Qry.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\UAP.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Utils.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\CTL.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\ADODB.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\NPOI.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\DAL.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Interop.SQLDMO.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\stdole.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\BIS.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Layout.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Qry.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\UAP.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\Utils.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\bin\Debug\CTL.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.csprojResolveAssemblyReference.cache
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fPatient_Mod.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor_Mod.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_1.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_Mod.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fPatient.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction_Mod.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.fUser.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\PT\obj\Debug\PT.pdb
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\PT.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\PT.pdb
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\BIS.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Layout.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Qry.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\UAP.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Utils.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\CTL.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\ADODB.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\NPOI.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Interop.CRAXDDRT.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\DAL.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\CrystalDecisions.Shared.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\NPOI.OOXML.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Interop.SQLDMO.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\stdole.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\NPOI.OpenXml4Net.dll
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\BIS.pdb
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Layout.pdb
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Qry.pdb
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\UAP.pdb
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\Utils.pdb
+G:\DTMS_Today\DTMS_170208\PT\bin\Debug\CTL.pdb
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.csprojResolveAssemblyReference.cache
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.Form.fPatient_Mod.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor_Mod.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_1.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_Mod.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.Form.fPatient.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction_Mod.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.fUser.resources
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.dll
+G:\DTMS_Today\DTMS_170208\PT\obj\Debug\PT.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\PT.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\PT.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\BIS.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\Layout.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\Qry.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\UAP.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\Utils.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\CTL.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\ADODB.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\BIS.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\Layout.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\Qry.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\UAP.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\Utils.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\PT\bin\Debug\CTL.pdb
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fPatient_Mod.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor_Mod.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fDoctor.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_1.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fAppointment_Mod.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fPatient.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.Form.fTransaction_Mod.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.fUser.resources
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.dll
+C:\Users\Administrator\Desktop\DTMS_170208\PT\obj\Debug\PT.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\PT.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\PT.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\BIS.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\Layout.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\Qry.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\UAP.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\Utils.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\CTL.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\ADODB.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\BIS.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\Layout.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\Qry.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\UAP.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\Utils.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\PT\bin\Debug\CTL.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.Form.fPatient_Mod.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.Form.fDoctor_Mod.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.Form.fDoctor.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.Form.fAppointment_1.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.Form.fAppointment_Mod.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.Form.fPatient.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.Form.fTransaction.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.Form.fTransaction_Mod.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.fUser.resources
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.dll
+C:\Users\Administrator\Desktop\DTMS_170313\PT\obj\Debug\PT.pdb

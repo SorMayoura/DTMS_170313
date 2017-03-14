@@ -1,0 +1,34 @@
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\CTL\bin\Debug\CTL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\CTL\bin\Debug\CTL.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\CTL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\CTL\obj\Debug\CTL.DateText.resources
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\CTL\obj\Debug\CTL.csproj.GenerateResource.Cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\CTL\obj\Debug\CTL.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\CTL\obj\Debug\CTL.pdb
+G:\DTMS_170208\CTL\bin\Debug\CTL.dll
+G:\DTMS_170208\CTL\bin\Debug\CTL.pdb
+G:\DTMS_170208\CTL\obj\Debug\CTL.csprojResolveAssemblyReference.cache
+G:\DTMS_170208\CTL\obj\Debug\CTL.DateText.resources
+G:\DTMS_170208\CTL\obj\Debug\CTL.csproj.GenerateResource.Cache
+G:\DTMS_170208\CTL\obj\Debug\CTL.dll
+G:\DTMS_170208\CTL\obj\Debug\CTL.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\CTL\bin\Debug\CTL.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\CTL\bin\Debug\CTL.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\CTL\obj\Debug\CTL.csprojResolveAssemblyReference.cache
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\CTL\obj\Debug\CTL.DateText.resources
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\CTL\obj\Debug\CTL.csproj.GenerateResource.Cache
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\CTL\obj\Debug\CTL.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\CTL\obj\Debug\CTL.pdb
+G:\DTMS_Today\DTMS_170208\CTL\bin\Debug\CTL.dll
+G:\DTMS_Today\DTMS_170208\CTL\bin\Debug\CTL.pdb
+G:\DTMS_Today\DTMS_170208\CTL\obj\Debug\CTL.DateText.resources
+G:\DTMS_Today\DTMS_170208\CTL\obj\Debug\CTL.csproj.GenerateResource.Cache
+G:\DTMS_Today\DTMS_170208\CTL\obj\Debug\CTL.dll
+G:\DTMS_Today\DTMS_170208\CTL\obj\Debug\CTL.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\CTL\bin\Debug\CTL.dll
+C:\Users\Administrator\Desktop\DTMS_170313\CTL\bin\Debug\CTL.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\CTL\obj\Debug\CTL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DTMS_170313\CTL\obj\Debug\CTL.DateText.resources
+C:\Users\Administrator\Desktop\DTMS_170313\CTL\obj\Debug\CTL.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DTMS_170313\CTL\obj\Debug\CTL.dll
+C:\Users\Administrator\Desktop\DTMS_170313\CTL\obj\Debug\CTL.pdb

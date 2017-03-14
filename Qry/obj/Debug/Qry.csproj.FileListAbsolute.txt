@@ -1,0 +1,38 @@
+C:\Users\SAINGYL\Desktop\DTMS\Qry\bin\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS\Qry\bin\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS\Qry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS\Qry\obj\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS\Qry\obj\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\Qry\bin\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\Qry\bin\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\Qry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\Qry\obj\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_20170124\DTMS\Qry\obj\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\Qry\bin\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\Qry\bin\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\Qry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\Qry\obj\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_310117\DTMS_310117\Qry\obj\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\Qry\bin\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\Qry\bin\Debug\Qry.pdb
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\Qry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\Qry\obj\Debug\Qry.dll
+C:\Users\SAINGYL\Desktop\DTMS Project\DTMS_170208\Qry\obj\Debug\Qry.pdb
+G:\DTMS_170208\Qry\bin\Debug\Qry.dll
+G:\DTMS_170208\Qry\bin\Debug\Qry.pdb
+G:\DTMS_170208\Qry\obj\Debug\Qry.csprojResolveAssemblyReference.cache
+G:\DTMS_170208\Qry\obj\Debug\Qry.dll
+G:\DTMS_170208\Qry\obj\Debug\Qry.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\Qry\bin\Debug\Qry.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\Qry\bin\Debug\Qry.pdb
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\Qry\obj\Debug\Qry.dll
+C:\Users\Sor Mayoura\Desktop\DTMS_170208\Qry\obj\Debug\Qry.pdb
+G:\DTMS_Today\DTMS_170208\Qry\bin\Debug\Qry.dll
+G:\DTMS_Today\DTMS_170208\Qry\bin\Debug\Qry.pdb
+G:\DTMS_Today\DTMS_170208\Qry\obj\Debug\Qry.dll
+G:\DTMS_Today\DTMS_170208\Qry\obj\Debug\Qry.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\Qry\bin\Debug\Qry.dll
+C:\Users\Administrator\Desktop\DTMS_170313\Qry\bin\Debug\Qry.pdb
+C:\Users\Administrator\Desktop\DTMS_170313\Qry\obj\Debug\Qry.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DTMS_170313\Qry\obj\Debug\Qry.dll
+C:\Users\Administrator\Desktop\DTMS_170313\Qry\obj\Debug\Qry.pdb

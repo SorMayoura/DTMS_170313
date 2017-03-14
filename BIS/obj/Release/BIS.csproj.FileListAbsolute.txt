@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\BIS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\BIS\obj\Release\ResolveAssemblyReference.cache

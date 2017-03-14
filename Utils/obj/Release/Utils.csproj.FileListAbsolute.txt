@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Utils\obj\Release\Utils.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Utils\obj\Release\Utils.FM.SetupConnection.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Utils\obj\Release\Utils.FM.SetupPrinter.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Utils\obj\Release\Utils.FM.ViewReport.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Utils\obj\Release\Utils.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Utils\obj\Release\Utils.FM.Backup.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Utils\obj\Release\Utils.FM.Restore.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Utils\obj\Release\Utils.FM.SetupConnection.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Utils\obj\Release\Utils.FM.SetupPrinter.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Utils\obj\Release\Utils.FM.ViewReport.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\Utils\obj\Release\Utils.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\obj\Release\PT.fAppointment.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\PT\obj\Release\PT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Release\PT.Form.fAppointment_1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Release\PT.fTransaction.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\PT\obj\Release\PT.csproj.GenerateResource.Cache

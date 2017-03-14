@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Release\UAP.FM.AddControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Release\UAP.FM.AddUser.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Release\UAP.FM.ChangePassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Release\UAP.FM.ConfigControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Release\UAP.FM.FMLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Release\UAP.FM.Permission.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS\UAP\obj\Release\UAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Release\UAP.FM.AddControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Release\UAP.FM.AddUser.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Release\UAP.FM.ChangePassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Release\UAP.FM.ConfigControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Release\UAP.FM.FMLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Release\UAP.FM.Permission.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DTMS_260117\UAP\obj\Release\UAP.csproj.GenerateResource.Cache

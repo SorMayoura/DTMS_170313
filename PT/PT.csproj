@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5D468BA6-8E1F-401D-BAAE-A5562C7E5344}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PT</RootNamespace>
+    <AssemblyName>PT</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form\fInstruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fInstruction.Designer.cs">
+      <DependentUpon>fInstruction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fPatient_Mod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fPatient_Mod.Designer.cs">
+      <DependentUpon>fPatient_Mod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fDoctor_Mod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fDoctor_Mod.Designer.cs">
+      <DependentUpon>fDoctor_Mod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fDoctor.designer.cs">
+      <DependentUpon>fDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fAppointment_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fAppointment_1.Designer.cs">
+      <DependentUpon>fAppointment_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fAppointment_Mod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fAppointment_Mod.Designer.cs">
+      <DependentUpon>fAppointment_Mod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fUser.designer.cs">
+      <DependentUpon>fUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fPatient.designer.cs">
+      <DependentUpon>fPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fTransaction.designer.cs">
+      <DependentUpon>fTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fTransaction_Mod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fTransaction_Mod.Designer.cs">
+      <DependentUpon>fTransaction_Mod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BIS\BIS.csproj">
+      <Project>{82D859BC-E304-49B1-B524-840B2E04DB6F}</Project>
+      <Name>BIS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layout\Layout.csproj">
+      <Project>{81EA7CDF-E79F-4A83-A268-2C9D8ED0B71A}</Project>
+      <Name>Layout</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Qry\Qry.csproj">
+      <Project>{E4A4A3AD-C6A9-4A33-994F-1A5EAF3E9F35}</Project>
+      <Name>Qry</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UAP\UAP.csproj">
+      <Project>{D0A57B33-02EF-4CEB-BB53-8060BE6D8005}</Project>
+      <Name>UAP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{4865882D-5E70-4743-80ED-946C7C6CA501}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\fPatient_Mod.resx">
+      <DependentUpon>fPatient_Mod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fDoctor_Mod.resx">
+      <DependentUpon>fDoctor_Mod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fDoctor.resx">
+      <DependentUpon>fDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fAppointment_1.resx">
+      <DependentUpon>fAppointment_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fAppointment_Mod.resx">
+      <DependentUpon>fAppointment_Mod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fPatient.resx">
+      <DependentUpon>fPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fTransaction.resx">
+      <DependentUpon>fTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fTransaction_Mod.resx">
+      <DependentUpon>fTransaction_Mod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fUser.resx">
+      <DependentUpon>fUser.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CS\" />
+    <Folder Include="DS\" />
+    <Folder Include="Report\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
